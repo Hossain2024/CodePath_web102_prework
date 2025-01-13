@@ -26,7 +26,14 @@ Here's a walkthrough of implemented features:
 
 <img src= Library | Loom - 12 January 2025 - Watch Video
 title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<div>
+    <a href="https://www.loom.com/share/1b513c1553ed49a09e1b9ed84cd5425b">
+      <p>Library | Loom - 12 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1b513c1553ed49a09e1b9ed84cd5425b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1b513c1553ed49a09e1b9ed84cd5425b-ac9847f510203dbf-full-play.gif">
+    </a>
+  </div>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
