@@ -24,8 +24,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src= Library | Loom - 12 January 2025 - Watch Video
-title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <div>
     <a href="https://www.loom.com/share/1b513c1553ed49a09e1b9ed84cd5425b">
       <p>Library | Loom - 12 January 2025 - Watch Video</p>
