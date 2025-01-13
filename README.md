@@ -1,4 +1,4 @@
-# WEB102 Prework - *WelWat*
+# WEB102 Prework - *WetWat*
 
 Submitted by: **Maliha Hossain**
 
