@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src=file:///private/var/folders/cr/xmf8sq8166lf2k6kxh6rrr200000gn/T/82cc3b89979a7439b718ef5a1e5f2b6c/Kapture%202025-01-12%20at%2020.01.19.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= Library | Loom - 12 January 2025 - Watch Video
+title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
